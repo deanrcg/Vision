@@ -1,4 +1,5 @@
 openai==1.82.0
 gradio==5.31.0
 python-dotenv==1.0.1
-Pillow==10.2.0 
+Pillow==10.2.0
+reportlab==4.1.0 
